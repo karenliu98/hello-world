@@ -1,2 +1,3 @@
 # hello-world
-testing repository 
+
+Testing the function of Github repository branches
